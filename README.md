@@ -3,4 +3,4 @@
 # Portfolio Website:-
 [https://bratajit-03.github.io/TECH_INTERN23/Portfolio/index.html]
 # Online Book Store:-
-[https://bratajit-03.github.io/TECH_INTERN23/Online Book Store/index.html]
+[https://bratajit-03.github.io/TECH_INTERN23/Online%20Book%20Store/index.html]
